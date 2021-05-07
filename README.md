@@ -1,10 +1,10 @@
 # clj-opentelemetry
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to wrap the java opentelemetry libraries.
 
 ## Usage
 
-FIXME
+**WARNING** DO NOT USE, STILL IN EARLY DEVELOPMENT
 
 ## License
 
